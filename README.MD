@@ -1,4 +1,4 @@
-# 🎬 Movie Recommendation System
+# 🎬Movie Recommendation System
 
 ## 📖 Overview
 This project aims to build a **Movie Recommendation System** using the **MovieLens 100k (ml-100k) dataset**.  
