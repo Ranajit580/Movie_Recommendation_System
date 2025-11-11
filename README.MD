@@ -30,3 +30,12 @@ The goal is to analyze user–movie interactions and recommend movies based on u
 - Uses **Singular Value Decomposition (SVD)** algorithm from **Surprise library**.
 - Learns latent features representing user and movie characteristics.
 - Predicts ratings for unseen movies based on past behavior.
+
+
+## 🖼️ Sample Output
+
+### 🎞️ Content-Based Filtering
+![Content-Based Filtering Output](images/Screenshot%20(343).png)
+
+### ⚙️ Hybrid Recommendation
+![Hybrid Filtering Output](images/Screenshot%20(344).png)
